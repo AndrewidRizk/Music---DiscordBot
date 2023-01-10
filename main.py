@@ -7,7 +7,7 @@ intents = discord.Intents.default()
 intents.message_content = True
 
 client = discord.Client(intents=intents)
-token = 'MTA2MTc4NDAzODQ4Mzk2ODA4MA.GPpJUR.3CLCBb7MSCvb0-mpE7hXaJCIlLn5__y3UB_e3g'
+token = 'insert Token Here'
 voice_clients = {}
 
 yt_dl_opts = {'format': 'bestaudio/best'}
