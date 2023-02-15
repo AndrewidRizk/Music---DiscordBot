@@ -6,9 +6,11 @@
   1) discord 
   2) youtube_dl 
   3) FFmpeg 
-  
-## Download:
-  FFmpeg 
+  ```bash
+   import asyncio
+   import discord
+   import youtube_dl
+```
 ## About the Discord bot and how it works
 When you run the discord bot it connect with Apis to go online
 
