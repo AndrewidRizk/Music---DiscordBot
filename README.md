@@ -32,4 +32,8 @@ ffmpeg_options = {'options': "-vn"}
 ![image](https://user-images.githubusercontent.com/97995173/219145803-11e5a3d4-31d8-438c-8bf0-5b40123b06fe.png)
 ![image](https://user-images.githubusercontent.com/97995173/219148524-332163e0-a827-4424-824c-b4ebd4573448.png)
 
+## Dicord calls
+1) ?play - which makes the bot join the discord server and open the required youtube vedio 
+![image](https://user-images.githubusercontent.com/97995173/219150920-c50d007b-996b-483d-878d-0a121b72b981.png) ![image](https://user-images.githubusercontent.com/97995173/219151437-4eef07fa-8304-4e82-94a9-63482d39ae2f.png)
+
 
